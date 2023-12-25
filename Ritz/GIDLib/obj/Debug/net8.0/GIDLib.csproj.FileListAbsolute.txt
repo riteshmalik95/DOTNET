@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\GIDLib\bin\Debug\net8.0\GIDLib.deps.json
+C:\Users\IET\Desktop\GIDLib\bin\Debug\net8.0\GIDLib.dll
+C:\Users\IET\Desktop\GIDLib\bin\Debug\net8.0\GIDLib.pdb
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\GIDLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\GIDLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\GIDLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\GIDLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\GIDLib.dll
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\refint\GIDLib.dll
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\GIDLib.pdb
+C:\Users\IET\Desktop\GIDLib\obj\Debug\net8.0\ref\GIDLib.dll
