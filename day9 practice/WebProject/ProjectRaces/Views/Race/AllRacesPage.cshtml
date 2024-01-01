@@ -1,0 +1,17 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Race Catalog";
+}
+<div align = "center" >
+    @{
+        List<Race> r_arr= ViewData["Races"] as List<Race>;
+        foreach(Race r in r_arr){
+           <div id="d2">
+                <p id="para">Race ID : @r.Race_ID</p>
+                <p id="para">Race Event : @r.Event_Name</p>
+                <p id="para">Event Winner : @r.Race_WinnerID</p>
+                <hr/>
+            </div>
+        }
+    }
+</div>

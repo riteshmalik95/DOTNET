@@ -1,0 +1,35 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Insert Page";
+}
+<div align="center">
+    @{
+        string res = ViewData["InsertRace"] as string;
+        <div id="d2">
+
+            <form method="post">
+                <fieldset>
+                    <legend>Insert Race</legend><br>
+                    <div>
+                        <input type="text" name="id" value="" placeholder="Enter Race ID"/>
+                    </div>
+                    <br>
+                    <div>
+                        <input type="text" name="r_event" value="" placeholder="Enter Event Name"/>
+                    </div>
+                    <br>
+                    <div>
+                        <input type="text" name="winnerID" value="" placeholder="Enter Winner ID"/>
+                    </div>
+                    <br>
+                    <div>
+                        <label>&nbsp;</label>
+                        <input type="Submit" value="Submit" class="submit" />
+                    </div>
+                    <br>
+                </fieldset>
+            </form>
+            <hr />
+        </div>
+    }
+</div>
